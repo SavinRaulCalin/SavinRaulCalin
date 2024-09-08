@@ -10,10 +10,10 @@
 <br>
 <section align='center'>
   <h3>🔗 Connect with me 🔗</h3>
-  <a href = "mailto:webdevraul@gmail.com">
+  <a href = "mailto:webdevraul.md@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/Savin-Raul-Calin" target="_blank">
+  <a href="https://md.linkedin.com/in/webdevraul" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </section>
