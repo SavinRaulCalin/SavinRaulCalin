@@ -4,7 +4,7 @@
 <br>
 <br>
 <section align="center">
-  <img alt="WebDevRaul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SavinRaulCalin&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img alt="WebDevRaul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raul-savin&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </section>
 <br>
